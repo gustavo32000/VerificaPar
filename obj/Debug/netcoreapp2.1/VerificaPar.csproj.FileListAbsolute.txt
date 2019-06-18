@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\bin\Debug\netcoreapp2.1\VerificaPar.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\bin\Debug\netcoreapp2.1\VerificaPar.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\bin\Debug\netcoreapp2.1\VerificaPar.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\bin\Debug\netcoreapp2.1\VerificaPar.dll
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\bin\Debug\netcoreapp2.1\VerificaPar.pdb
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.dll
+C:\Users\gustavo.calbuquerque\CSharp\VerificaPar\obj\Debug\netcoreapp2.1\VerificaPar.pdb
